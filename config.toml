@@ -1,0 +1,17 @@
+baseURL = 'http://www.slaps-nyc.com/'
+languageCode = 'en-us'
+title = 'Slaps'
+description = 'Live in the Now'
+theme = 'kube'
+
+licenselink = ""
+tags = [""]
+features = []
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.84.0"
+[author]
+  name = ""
+  homepage = ""
+ 
